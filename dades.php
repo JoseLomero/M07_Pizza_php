@@ -9,7 +9,6 @@
       4 => 'Bacon',
       5 => 'Piña'
   );
+//<input type="checkbox" name="ingredients['Massa', 'Orenga', 'Formatge', 'Pernil dolç', 'Bacon', Piña]">;
 ?>
 
-
-<input type="checkbox" name="ingredients['Massa', 'Orenga', 'Formatge', 'Pernil dolç', 'Bacon', Piña]">;
